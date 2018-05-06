@@ -2,12 +2,12 @@
 
                                OS:Banker Algorithm
                     3rd Computer Engineering,Helwan University
-        1- Çíå ãÚæÖ ÑÇÔÏ (030)
-        2- ÑíåÇã ãÍãÏ ÇÈæ ÇáíÒíÏ (043)
-        3- ÍÓä ÇÈÑÇåíã İÊæÍ (038)
-        4- ãÕØİì ãÌÏì ÇÍãÏ ÚËãÇä (097)
-        5- åÈÉ ÇÔÑİ İÄÇÏ Øå (105)
-
+      1- Aya Moawad Rashed ( 030 )
+      2- Reham Mohamed Abo-Elyazeed ( 043 )
+      3- Hassan Ibrahim Fatooh ( 038 )
+      4- Moustafa Magdy Ahmed ( 097 ) 
+      5- Heba Ashraf Foad taha ( 105 )
+      
 *******************************************************************************/
 
 #include <iostream>
